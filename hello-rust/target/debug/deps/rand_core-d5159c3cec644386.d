@@ -1,0 +1,12 @@
+C:\Users\Ryaba\Desktop\учеба 3 курс\ЯП_лаба3\hello-rust\target\debug\deps\rand_core-d5159c3cec644386.rmeta: C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\lib.rs C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\block.rs C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\error.rs C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\impls.rs C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\le.rs C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\os.rs
+
+C:\Users\Ryaba\Desktop\учеба 3 курс\ЯП_лаба3\hello-rust\target\debug\deps\librand_core-d5159c3cec644386.rlib: C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\lib.rs C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\block.rs C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\error.rs C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\impls.rs C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\le.rs C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\os.rs
+
+C:\Users\Ryaba\Desktop\учеба 3 курс\ЯП_лаба3\hello-rust\target\debug\deps\rand_core-d5159c3cec644386.d: C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\lib.rs C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\block.rs C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\error.rs C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\impls.rs C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\le.rs C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\os.rs
+
+C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\lib.rs:
+C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\block.rs:
+C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\error.rs:
+C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\impls.rs:
+C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\le.rs:
+C:\Users\Ryaba\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.1\src\os.rs:
